@@ -1,0 +1,1 @@
+moveZeros= arr => [...arr.filter(elem => elem !== 0), ...arr.filter(elem => elem === 0)];

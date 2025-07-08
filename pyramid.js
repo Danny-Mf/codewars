@@ -8,4 +8,4 @@ function towerBuilder(nFloors) {
   return pyramid;
 }
 
-console.log(towerBuilder(3)); // ["  *  ", " *** ", "*****"]
+console.log(towerBuilder(5)); // ["  *  ", " *** ", "*****"]
